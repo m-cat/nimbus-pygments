@@ -146,25 +146,17 @@
 
 /* Name.Attribute */
 .highlight .nb {
-  color: #ab75c3; }
+  color: #5180b3; }
 
 /* Name.Builtin */
 .highlight .nc {
   color: #1d9a79; }
 
 /* Name.Class */
-.highlight .no {
-  color: #ab75c3; }
-
-/* Name.Constant */
 .highlight .nd {
   color: #5180b3; }
 
 /* Name.Decorator */
-.highlight .ni {
-  color: #df9522; }
-
-/* Name.Entity */
 .highlight .ne {
   color: #ab75c3; }
 
@@ -173,6 +165,10 @@
   color: #1d9a79; }
 
 /* Name.Function */
+.highlight .ni {
+  color: #df9522; }
+
+/* Name.Entity */
 .highlight .nl {
   color: #baba36; }
 
@@ -181,14 +177,10 @@
   color: #bdbdb3; }
 
 /* Name.Namespace */
-.highlight .nx {
-  color: #bdbdb3; }
+.highlight .no {
+  color: #ab75c3; }
 
-/* Name.Other */
-.highlight .py {
-  color: #baba36; }
-
-/* Name.Property */
+/* Name.Constant */
 .highlight .nt {
   color: #5180b3; }
 
@@ -201,6 +193,10 @@
   color: #baba36; }
 
 /* Operator.Word */
+.highlight .nx {
+  color: #bdbdb3; }
+
+/* Name.Other */
 .highlight .w {
   color: #bdbdb3; }
 
@@ -221,6 +217,10 @@
   color: #df9522; }
 
 /* Literal.Number.Oct */
+.highlight .py {
+  color: #baba36; }
+
+/* Name.Property */
 .highlight .sb {
   color: #ab75c3; }
 
